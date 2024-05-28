@@ -1,0 +1,26 @@
+[
+    {
+        "number": "01",
+        "title": "ACCOUNTING OUTSOURCING SERVICES",
+        "description": "We have 18+ years of experience in providing accounting outsourcing services to entities in various industries. Our CFOs and accounting professionals maintain books of accounts, receivables, payables, prepare financial statements, and make reconciliations. Our clients benefit from best-in-class accounts outsourcing services, virtual services, not having to maintain an in-house team, and pricing that doesn’t hurt the pocket.",
+        "image": "./assets/CFO-1.png"
+    },
+    {
+        "number": "02",
+        "title": "OUTSOURCED BOOKKEEPING SERVICES",
+        "description": "We, at KMS, understand that the requirement of every customer is unique, so we provide personalized outsourced bookkeeping services as a part of our Virtual Services. Our bookkeeping outsourcing services include invoice generation, account receivables, accounts payables, ledger maintenance, chart of accounts, bank reconciliation, payroll processing, report generation, and financial analysis services.",
+        "image": "./assets/CFO-2.png"
+    },
+    {
+        "number": "03",
+        "title": "PAYROLL OUTSOURCING SERVICES",
+        "description": "Our outsourced payroll services allow you to concentrate on your core business and work on more strategic work. You can take advantage of our expert team who have years of experience in providing virtual services and payroll outsourcing services. With the help of experts and professional outsourced payroll services, you can expect accurate payroll processing, faster turnaround, cost-savings, and higher employee satisfaction.",
+        "image": "./assets/CFO-3.png"
+    },
+    {
+        "number": "04",
+        "title": "OUTSOURCED BUDGETING AND MIS REPORTING SERVICES",
+        "description": "We provide outsourced budgeting and MIS reporting services where we prepare annual, semi-annual, and quarterly operating budgets, departmental budgets, and capital budgets. The budgets will help you keep a check on revenues, expenses, cash flow, working capital, and long term capital needs. As a part of our virtual services, we provide MIS Reporting Services to help you make informed business decisions.",
+        "image": "./assets/CFO-4.png"
+    }
+]

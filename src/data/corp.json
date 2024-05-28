@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "BUSINESS SETUP SERVICES",
+        "description": "We at KMS help you in its entirety in the formation of a business in India. Right from legal registration to documentation to licensing and bank account opening. Our Business Setup consultants aid you in all the aspects related to company formation.",
+        "image": "./assets/Corp1.png"
+    },
+    {
+        "id": 2,
+        "title": "CORPORATE LAW ADVISORY",
+        "description": "We let you concentrate on essential aspects of your business by taking off the burden of compliance with the legal obligations. We provide you with the best corporate legal services and ensure that you comply with all the company law-related regulations in India.",
+        "image": "./assets/Corp2.png"
+    },
+    {
+        "id": 3,
+        "title": "EXIM POLICY",
+        "description": "We make the Exim procedure easier for you by with our effective consultancy and corporate advisory services. Our decades of experience in this field solve all of your foreign trade problems and enables us to customize solutions as per your needs.",
+        "image": "./assets/Corp3.png"
+    },
+    {
+        "id": 4,
+        "title": "FEMA COMPLIANCE",
+        "description": "Inbound and outbound transactions require compliance with the foreign exchange management act (FEMA). We have a proficient team of FEMA advisors to ensure that our clients adhere to the requirements of FEMA.",
+        "image": "./assets/Corp4.png"
+    },
+    {
+        "id": 5,
+        "title": "DUE DILIGENCE",
+        "description": "Our team of highly skilled employees helps you in making strategic decisions based on in-depth research and analysis to determine whether or not the decisions are feasible and value-generating for present and future conditions of the company.",
+        "image": "./assets/Corp5.png"
+    },
+    {
+        "id": 6,
+        "title": "DEBT ADVISORY",
+        "description": "Debt and equity are two critical components of the financial structure of any company. We understand its importance, and therefore, we provide the best in the class debt advisory services based on your expansion plan and future goals.",
+        "image": "./assets/Corp6.png"
+    },
+    {
+        "id": 7,
+        "title": "US GAAP & IFRS CONVERSION",
+        "description": "Our corporate advisory services include GAAP conversion and IFRS conversion, two essential frameworks that focus on transparency and quality of financial reporting. We enable our clients to comply with these international standards on a real-time basis.",
+        "image": "./assets/Corp7.png"
+    },
+    {
+        "id": 8,
+        "title": "MERGERS AND ACQUISITIONS",
+        "description": "The process of mergers and acquisitions is complex in its very nature. We guide you with the entire process of M&A with our dedicated advisors. We play the role of sell-side or buy-side advisors in deals to provide you with the best of M&A services.",
+        "image": "./assets/Corp8.png"
+    },
+    {
+        "id": 9,
+        "title": "BUSINESS VALUATION AND RESTRUCTURING",
+        "description": "Our business valuation service at KMS provides business and asset valuation based on our decades of experience and sound professional judgment. We also offer business restructuring services to help you achieve your goals and objectives.",
+        "image": "./assets/Corp9.png"
+    }
+]

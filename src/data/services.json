@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "AUDIT",
+        "description": "As one of the Audit firms in India, we provide audit services like statutory audit, tax audit, internal audit, concurrent audit, management audit, compliance review audit, fraud investigation audit, GST audit, and information system audit services.",
+        "icon": "fas fa-book"
+    },
+    {
+        "id": 2,
+        "title": "DIRECT TAX",
+        "description": "Our direct tax consultancy includes all the important services you need for matters concerning personal tax and corporate tax. Our CAs in Ahmedabad provide international tax consultancy for the matters concerning DTAA, CbCR, and transfer pricing.",
+        "icon": "fas fa-file-alt"
+    },
+    {
+        "id": 3,
+        "title": "INDIRECT TAX",
+        "description": "We advise and provide expert solutions to our clients on Indirect tax like GST litigation, GST compliance, due diligence, e-way bill, VAT, service tax, customs, and provide our opinions on matters concerning Indirect Tax. As one of the sought-after CA firms in India, we strive to provide you with the best of our service in this domain.",
+        "icon": "fas fa-file-invoice-dollar"
+    },
+    {
+        "id": 4,
+        "title": "CFO SERVICE",
+        "description": "As an accounting firm in India, we provide CFO Services like accounts outsourcing, outsourced bookkeeping, outsourced budgeting, MIS reporting solution, and payroll outsourcing out of many other such services to our clients situated locally and internationally.",
+        "icon": "fas fa-user-tie"
+    },
+    {
+        "id": 5,
+        "title": "CORPORATE SERVICE",
+        "description": "As one of the CA firms in Ahmedabad, our team of professionals aids you with Corporate services that are related to corporate law, FEMA compliance, Foreign Trade Policy (FTP) compliance, US GAAP/IFRS conversion, business valuation, and merger and acquisition.",
+        "icon": "fas fa-building"
+    },
+    {
+        "id": 6,
+        "title": "CONSULTANCY SERVICE",
+        "description": "As one of the consulting firms in India, we conduct business feasibility studies, AML consultancy, IT consultancy, risk consultancy, management consultancy, transaction advisory among lots of other services to count on.",
+        "icon": "fas fa-comments"
+    }
+]

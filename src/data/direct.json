@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "INCOME TAX",
+        "description": "Our Income Tax consultants in Ahmedabad provide individual tax planning strategies, advance tax calculations, SA tax computations, file tax returns, and e-TDS returns. Our Direct tax advisory services include representation before tax authorities in matters related to assessments and litigations. We also assist clients in registering for PAN and TAN. We provide direct tax consultancy to individuals, partnership firms, NRIs, foreign companies, expatriates, Trusts, and AOPs. ",
+        "image": "./assets/d1.png"
+    },
+    {
+        "id": 2,
+        "title": "CORPORATE TAX",
+        "description": "Our corporate tax consultants provide various corporate tax services, including tax planning, tax compliance, advisory services, and representation and litigation services. As a part of our direct tax services, we provide pre-transaction advisory to corporates wishing to enter into a new transaction. Our direct tax consultants offer tax holiday planning services to specified industries as per the Income Tax rules and regulations. We help the corporates into matters related to TDS and eTDS returns filing.",
+        "image": "./assets/d2.png"
+    },
+    {
+        "id": 3,
+        "title": "INTERNATIONAL TAX",
+        "description": "Operations across the world provide myriad opportunities to the company. However, along with it comes the requirement to comply with international tax laws and regulations. Our international taxation services include tax compliance for foreign operations of Indian companies and tax compliance for Indian operations of foreign taxpayers. We also provide these services for reporting of foreign assets, foreign currency transactions, restructuring foreign investments, offshore voluntary disclosures, and profit repatriation.",
+        "image": "./assets/d3.png"
+    },
+    {
+        "id": 4,
+        "title": "TRANSFER PRICING",
+        "description": "In the current global environment, companies have offices and operations in various and countries. We ensure that our clients adhere to the appropriate transfer pricing regulations. Our direct tax services for transfer pricing include a review of cross-border transactions and the possible risks, proper evaluation, structuring, and planning of the transactions for the tax impact, identification of the apt strategies for optimizing tax calculations, documentation for transfer pricing, any related advice, and legal support.",
+        "image": "./assets/d4.png"
+    },
+    {
+        "id": 5,
+        "title": "DTAA",
+        "description": "KMS provides its clients with expert DTAA advisory and consulting services. Our DTAA advisors ensure that clients receive the top quality services for tax return preparation in both the countries involved in DTAA transactions. As a part of our tax services, we help our clients in the structuring of salary to minimize the tax liabilities, determining the personal investment strategy for achieving the highest tax efficiency, and claiming for the foreign tax credit on dual-income returns.",
+        "image": "./assets/d5.png"
+    },
+    {
+        "id": 6,
+        "title": "NRI TAXATION",
+        "description": "KMS is one of the leading NRI taxation services providers in Ahmedabad. We provide NRI tax return filing services to help them comply with the Income Tax Act, 1961. As a part of our direct tax consulting services, we carry out tax planning for NRIs to maximize their wealth and reduce the burden of tax by legal means. We assist them in matters related to the sale of property and TDS compliance. We provide liaisoning services to NRIs intending to set up a branch office or liaison office under RBI permissions.",
+        "image": "./assets/d6.png"
+    }
+]

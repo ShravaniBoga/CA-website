@@ -1,0 +1,81 @@
+.main-div {
+  position: relative;
+  cursor: pointer;
+}
+.main-div.hover {
+  color: orange;
+}
+
+.overlay-droop {
+  display: none;
+  z-index: 2;
+  position: absolute;
+  top: 120px;
+  left: 117px;
+  height: auto;
+}
+
+.overlay-droop ul {
+  list-style-type: none;
+  height: auto;
+  padding: 20px 0;
+  /* background-color: blue; */
+}
+
+.overlay-droop li {
+  padding: 5px 10px;
+  background-color: blue;
+}
+.overlay-droop li:hover {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}
+
+.overlay-droop.active {
+  display: block;
+  width: 150px;
+  height: 200px;
+}
+
+/* last */
+
+.main-div-audit {
+  position: relative;
+  cursor: pointer;
+}
+.main-div-audit.hover {
+  color: orange;
+}
+
+.overlay-droop-audit {
+  display: none;
+  z-index: 2;
+  position: absolute;
+  top: 120px;
+  left: 173px;
+  height: auto;
+}
+
+.overlay-droop-audit ul {
+  list-style-type: none;
+  height: auto;
+  padding: 20px 0;
+  /* background-color: blue; */
+}
+
+.overlay-droop-audit li {
+  padding: 5px 10px;
+  background-color: blue;
+}
+.overlay-droop-audit li:hover {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}
+
+.overlay-droop-audit.active {
+  display: block;
+  width: 150px;
+  height: 200px;
+}

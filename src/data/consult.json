@@ -1,0 +1,44 @@
+[
+    {
+        "number": "01",
+        "title": "ECONOMIC FEASIBILITY STUDY",
+        "description": "When companies plan for new business ventures, they require the right tools to gauge the path that their venture would take – the practicality of vision, the feasibility of objectives, and the necessary resources. Our team of capable and proficient business feasibility experts assists clients in such studies to turn their dream into reality. We provide in-depth, accurate, and objective consultancy services to explore the range of possibilities available to enter the relevant industry. We adopt a scenario-based analysis approach to check the assumptions and their possible outcomes and finally come to a conclusion and provide recommendations to the clients.",
+        "image": "./assets/cons1.png"
+    },
+    {
+        "number": "02",
+        "title": "IT CONSULTING",
+        "description": "When companies face IT challenges, we provide our expert IT Consulting Services so that they can focus on their core business. We help companies in various sectors with our highly effective IT strategies and innovative solutions. Our IT consultancy services include the development of IT strategy, carrying out business requirements study, IT Project management, IT product selection, preparation of a business continuity plan, and disaster recovery plan. We also provide assistance and strategic guidance in IT budget planning, cloud strategy, risk management, and related aspects.",
+        "image": "./assets/cons2.png"
+    },
+    {
+        "number": "03",
+        "title": "RISK ADVISORY",
+        "description": "Companies face multiple risks in their day-to-day operations, and management of these risks can be a source of advantage over your competitors. We help the businesses in risk management through our risk consulting services so that it can drive their business forward. We identify the risks, prioritize them for their business type, and establish a holistic approach for its analysis, management, and governance. Our team conducts efficient monitoring of risks, evaluation, and reporting so that the businesses can make decisions regarding the implementation of new strategies, tools, and technologies.",
+        "image": "./assets/cons3.png"
+    },
+    {
+        "number": "04",
+        "title": "AML CONSULTANCY",
+        "description": "Our knowledgeable, trusted, and committed AML advisors provide AML consultancy services to the clients on anti-money laundering regulations. Our certified AML specialists apply their extensive experience in AML compliance consulting to create a tailor-made approach for our clients. We identify the gaps in our client’s business, recommend solutions to address the gaps and work along with the internal experts to develop practical actions for execution. Our services include KYC, due diligence, enhanced due diligence, drafting of AML compliance policies and procedures, incident reporting, and related compliance program management.",
+        "image": "./assets/cons4.png"
+    },
+    {
+        "number": "05",
+        "title": "MANAGEMENT CONSULTANCY",
+        "description": "Our professionals in management consultancy services assist clients in a multitude of management activities such as organization, operations, internal control systems, financial planning, and HR. We collaborate with our clients to know the company in detail and identify the problem areas. We use a combination of the industry insights, functional knowledge, and the best practices to arrive at a solution feasible for the client company. Our team helps you with management advisory in various phases of growth of your company and leads you to the achievement of goals.",
+        "image": "./assets/cons5.png"
+    },
+    {
+        "number": "06",
+        "title": "TRANSACTION ADVISORY",
+        "description": "Every deal of the kind of merger, acquisition, joint venture, divestiture, and others can bring new challenges for the businesses to handle. KMS’s transaction advisors help the clients in handling such deals with caution, care, and capability. As a part of our transaction advisors consultancy services, we collect and evaluate all the required information such as regulatory, operational, tax, legal, accounting, and management. We take a holistic approach for the proper assessment of each step and hand-hold the clients for the entire execution process to avoid any pitfalls.",
+        "image": "./assets/cons6.png"
+    },
+    {
+        "number": "07",
+        "title": "TRUST AND ESTATE PLANNING",
+        "description": "KMS’s team of trust and estate planning service experts assists the clients in devising business succession plans, wealth transfer strategies, and customized estate plans. They strive to preserve and enhance the clients’ wealth the way they intend to and reduce tax exposure. We help the individuals in planning for family investment, business succession, funding for charity purposes, and reduction in income tax liability. We provide our clients with comprehensive guidance with our industry knowledge and vast experience in providing consulting services on various matters.",
+        "image": "./assets/cons7.png"
+    }
+]

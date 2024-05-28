@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "GST Audit",
+        "description": "As an GST auditing firm in Ahmedabad, we examine the returns, records, and other essential documents of the GST registered business having turnover more than Rs. 2 crores. We ascertain the correctness of taxes paid, refunds claimed, and turnover declared by the company to check the regulatory compliance.",
+        "image": "./assets/ad-data1.png"
+    },
+    {
+        "id": 2,
+        "title": "Statutory Audit",
+        "description": "We provide statutory audit services and express our opinion if the financial statements of the company provide a true and fair view of its state of affairs and profitability. At KMS, we firmly believe that statutory audit should be seen as an opportunity for soaring high and not as an overhead task.",
+        "image": "./assets/ad-data2.png"
+    },
+    {
+        "id": 3,
+        "title": "Internal Audit",
+        "description": "Our Internal audit service involves continuous evaluation of operations of the company to suggest various improvements and strengthen the overall governance of the company. It also focuses on ensuring a robust internal control system to achieve operational efficiencies.",
+        "image": "./assets/ad-data3.png"
+    },
+    {
+        "id": 4,
+        "title": "CONCURRENT AUDIT",
+        "description": "We provide concurrent audit services to our clients where we systematically and timely examine all the transactions to ensure accuracy, compliance with procedure, and authenticity of the transactions. It helps in the timely detection of mistakes and irregularities.",
+        "image": "./assets/ad-data4.png"
+    },
+    {
+        "id": 5,
+        "title": "MANAGEMENT AUDIT",
+        "description": "Our management audit service assists our clients in ascertaining the effectiveness of managers and policies, systems, and methods that are implemented. It helps identify weaknesses and ways to strengthen the managerial function.",
+        "image": "./assets/ad-data5.png"
+    },
+    {
+        "id": 6,
+        "title": "COMPLIANCE AUDIT",
+        "description": "Our compliance audit services evaluate compliance with regulatory requirements, external laws, controls, policies, and procedures. It helps in identifying lapses so that one can remain compliant and avoid legal complications and penalties.",
+        "image": "./assets/ad-data6.png"
+    },
+    {
+        "id": 7,
+        "title": "FORENSIC AUDIT",
+        "description": "Forensic auditing is aimed at gathering legal evidence that can be used in the court of laws. We analyze financial transactions and apply specialized audit procedures to meet the requirements of terms of engagement.",
+        "image": "./assets/ad-data7.png"
+    },
+    {
+        "id": 8,
+        "title": "INFORMATION SYSTEM AUDIT",
+        "description": "The information technology infrastructure is one of the most crucial parts of any business today. We provide information system audit service where we examine IT and management controls and determine if they are operating effectively to meet organizational goals.",
+        "image": "./assets/ad-data8.png"
+    },
+    {
+        "id": 9,
+        "title": "TAX AUDIT",
+        "description": "As per Section 44AB of the Income Tax Act, an assessee needs to get a Tax Audit done if his sales, turnover or gross receipt exceeds Rs. 1 Crore in the financial year. We provide Tax auditing services in Ahmedabad to help our clients comply with regulatory requirements.",
+        "image": "./assets/ad-data9.png"
+    }
+]

@@ -1,0 +1,56 @@
+    [
+        {
+            "id": 1,
+            "title": "GST COMPLIANCE",
+            "description": "Along with the GST law came a series of compliance requirements that every business has to follow. We, as a leading provider of GST compliance services, will ensure to help our clients with every compliance requirement, be it registration, applying relevant tax codes, returns filing, and many more.",
+            "image": "./assets/In-1.png"
+        },
+        {
+            "id": 2,
+            "title": "GST DUE DILIGENCE",
+            "description": "We facilitate safe, secure, honest, and smooth GST transactions for our clients. As a top-notch indirect tax services provider, we conduct GST due diligence to make our decision-making more efficient. We understand the tax profile, uncover any unnoticed tax exposures, and identify potential tax benefits for you.",
+            "image": "./assets/In-2.png"
+        },
+        {
+            "id": 3,
+            "title": "GST OPINION",
+            "description": "We help you with a better understanding of GST rules and identification of the relevant activities where GST is applicable. We carry years of experience in indirect tax services and provide you with GST opinion services that are fair, transparent, and contribute to complete compliance.",
+            "image": "./assets/In-3.png"
+        },
+        {
+            "id": 4,
+            "title": "GST CLASSIFICATION",
+            "description": "One of our key indirect tax services is assisting you in the right GST classification for the application of the right GST rate. Being an expert in GST services, our indirect tax consultants will help you in the classification of your goods and services under the right HSN and SAC codes, respectively, for precise calculations.",
+            "image": "./assets/In-4.png"
+        },
+        {
+            "id": 5,
+            "title": "GST LITIGATION",
+            "description": "As one of the prominent providers of indirect tax advisory services, we aim to free you from any legalities and disputes of GST. Our indirect tax consultants advise you on your rights, formulate a GST litigation strategy, draft review applications, mediate the disputes, and prepare relevant documentation for proceedings.",
+            "image": "./assets/In-5.png"
+        },
+        {
+            "id": 6,
+            "title": "GST SEARCH / INQUIRY SUPPORT",
+            "description": "We have the right set of GST advisors and indirect tax consultants who have immense knowledge and experience in handling GST matters across varied industries. This enables us to help you in administrative proceedings during GST Search and seizure, represent you when required, and prepare statements for you.",
+            "image": "./assets/In-6.png"
+        },
+        {
+            "id": 7,
+            "title": "E-WAY BILL CONSULTANCY",
+            "description": "We solve all your problems related to e-way bills. Being a one-stop solution for all indirect tax services in Ahmedabad, our GST experts and advisors help you in generating GST e-way bills. Whether you are a registered person or unregistered, e-way bills will help you load and unload consignments.",
+            "image": "./assets/In-7.png"
+        },
+        {
+            "id": 8,
+            "title": "GST REFUND",
+            "description": "With a sure-shot knowledge of all aspects of GST, we, as a popular indirect tax services provider, support you in obtaining GST refunds. Be it the export of goods and services, the inverted duty structure, or any other case of refund, we choose for you the refund options, prepare documents, and file the refund claims.",
+            "image": "./assets/In-8.png"
+        },
+        {
+            "id": 9,
+            "title": "GST RETURN PREPARATION",
+            "description": "We have an in-house team of expert indirect tax professionals and GST advisors who can file all types of GST returns for any type of business. We keep a regular check on the deadlines, prepare the returns accurately and on time, and share with you all the returns data in your chosen format.",
+            "image": "./assets/In-9.png"
+        }
+    ]
