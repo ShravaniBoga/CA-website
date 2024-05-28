@@ -59,8 +59,8 @@ const TestimonialSubscription = () => {
 
     return (
         <section className="py-20 bg-white">
-            <div className="container px-4 mx-auto lg:px-12">
-                <div className="mb-12 text-center">
+            <div className="container mb-[-70px] px-4 mx-auto lg:px-12">
+                <div className="mb-12 text-center ">
                     <h3 className="text-sm font-bold tracking-widest text-orange-500 uppercase">What do our clients say about us?</h3>
                     <h2 className="mt-2 text-4xl font-bold text-gray-800">trust. transparency. professional expertise.</h2>
                 </div>
@@ -80,17 +80,7 @@ const TestimonialSubscription = () => {
                     ))}
                 </div>
             </div>
-            {/* <div className="py-12 bg-gradient-to-r from-orange-400 to-red-500">
-                <div className="container px-4 mx-auto lg:px-12">
-                    <div className="text-center">
-                        <h3 className="mb-6 text-2xl font-bold text-white">Stay ahead in a rapidly changing world. Subscribe to KMS Newsletter</h3>
-                        <div className="flex justify-center">
-                            <input type="email" placeholder="Enter Email Address" className="w-64 p-3 rounded-l-lg sm:w-80 md:w-96" />
-                            <button className="px-6 py-3 text-white bg-blue-900 rounded-r-lg">Subscribe Now</button>
-                        </div>
-                    </div>
-                </div>
-            </div> */}
+
         </section>
     );
 };
