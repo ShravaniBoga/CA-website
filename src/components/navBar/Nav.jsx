@@ -83,9 +83,15 @@ const Nav = () => {
                         <Link to="/contact">CONTACT</Link>
                     </li>
                 </ul>
-                <div className="flex items-center mt-4 space-x-4 md:mt-0">
+                {/* <div className="flex items-center mt-4 space-x-4 md:mt-0">
                     <i className="fas fa-search"></i>
                     <button className="px-4 py-2 bg-blue-700 rounded">GET IN TOUCH</button>
+                </div> */}
+                <div className="flex items-center mt-4 space-x-4 md:mt-0">
+                    <i className="fas fa-search"></i>
+                    <Link to="/contact">
+                        <button className="px-4 py-2 bg-blue-700 rounded">GET IN TOUCH</button>
+                    </Link>
                 </div>
             </div>
         </nav>
